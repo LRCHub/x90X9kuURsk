@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "透明人間18号",
+  "base_artist": "Radwimps",
+  "createdAt": "2026-03-04T01:07:51.020633Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "透明人間18号",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_透明人間18号_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "透明人間18号",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/02_透明人間18号_RADWIMPS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "透明人間18号",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_透明人間18号_RADWIMPS.txt"
+    }
+  ]
+}
